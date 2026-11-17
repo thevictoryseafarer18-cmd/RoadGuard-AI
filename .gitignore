@@ -1,0 +1,15 @@
+# Local runtime data may contain user-submitted locations and reports.
+/data/reports.json
+/data/reports.json.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / system files
+.vscode/
+.DS_Store
+Thumbs.db
